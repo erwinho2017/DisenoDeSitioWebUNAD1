@@ -1,0 +1,12 @@
+*{
+    background: #fff;
+}
+
+.contenedor{
+    border: solid 1px blue;
+    background: #cccccc
+}
+
+.fondo{
+    background: #ccc;
+}
